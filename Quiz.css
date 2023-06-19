@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: beige;
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 12px
+}
+
+#submit{
+    /* width: auto;
+    height:auto ; */
+    margin :0.5%;
+    font-size: 26px;
+    /* display: inline-block; */
+    vertical-align: middle;
+    align-items:center;
+    justify-content: center;
+    background-color: rgb(25, 155, 109);
+    border-radius: 8px;
+    
+    color: white;
+    padding: 8px 9px;
+    /* transition: all .3s ease-in-out;
+    outline: none;
+    */
+    z-index: -1;
+    cursor: pointer;
+
+
+}
